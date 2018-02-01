@@ -1,0 +1,28 @@
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\Group1.exe.config
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\Group1.exe
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\Group1.xml
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\Group1.pdb
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\Group1.exe.manifest
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\Group1.application
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\Group1.exe
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\Group1.pdb
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\Group1.xml
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\en\Group1.resources.dll
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\bin\Release\ChilkatDotNet45.dll
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\Term Project.vbprojResolveAssemblyReference.cache
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.addingImages.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.images_list.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.new_form.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.Notes.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.Notes_Access.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.pass_change.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.User_Options.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.Login.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.Users_List.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.Add_New_user.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.Resources.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\WindowsApplication2.Login.en.resources
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\Term Project.vbproj.GenerateResource.Cache
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\en\Group1.resources.dll
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\Group1.exe.manifest
+C:\Users\Baltu\Desktop\lab 6 report\WindowsApplication2 - Copy\WindowsApplication2\obj\Release\Group1.application
