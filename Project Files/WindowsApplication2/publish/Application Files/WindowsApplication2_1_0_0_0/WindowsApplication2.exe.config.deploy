@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="WindowsApplication2.My.MySettings.PROJECTC" connectionString="Data Source=NOBLESSE\BALTU;Initial Catalog=PROJECT;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="WindowsApplication2.My.MySettings.termproject" connectionString="Data Source=termproject2.database.windows.net;Initial Catalog=termproject;User ID=Talal;Password=15935736mM"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>
