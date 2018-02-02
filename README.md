@@ -5,6 +5,6 @@ Team Members:
 
 Talal Mahdy 
 
-Mohamed Balto 
+Mohamed Balto: https://github.com/BaltuNoblesse
 
-Abduljawad Elsheredi 
+Abduljawad Elsheredi: https://github.com/jawadshred
